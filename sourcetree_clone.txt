@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 clonerepository  hello java  clone
 new clone as is today
 I love you forever!
+=======
+clonerepository  hello java  clone
+>>>>>>> parent of 43e1739... second commit
